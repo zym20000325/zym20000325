@@ -1,6 +1,7 @@
 - @zym20000325
-- Nanjing University
-- yumengzhang2000@qq.com
+- Nanjing University 22' 
+- The University of Chicago 23'
+- ymzhang@uchicago.edu
 
 <!--- 
 zym20000325/zym20000325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
