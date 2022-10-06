@@ -1,6 +1,6 @@
 - @zym20000325
 - Nanjing University 22' 
-- The University of Chicago 23'
+- University of Chicago 23'
 - ymzhang@uchicago.edu
 
 <!--- 
