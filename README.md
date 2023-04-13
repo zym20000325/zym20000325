@@ -1,7 +1,6 @@
 - @zym20000325
-- Nanjing University '22 
-- University of Chicago '23
-- ymzhang@uchicago.edu
+- NJU '22 
+- UChicago '23
 
 <!--- 
 zym20000325/zym20000325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
