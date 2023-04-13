@@ -1,4 +1,3 @@
-- @zym20000325
 - NJU '22 
 - UChicago '23
 
